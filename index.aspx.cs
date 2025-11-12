@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
+using AppNegocio;
+
 namespace IDS2_proyecto
 {
     public partial class index : System.Web.UI.Page
@@ -18,14 +20,11 @@ namespace IDS2_proyecto
         {
             double x = Convert.ToDouble(this.txt_X.Text);
 
-            double a = 2;
-            double b = 2;
-            double c = 2;
-            double y = 0;
+            AppNegocio.Negocio Negocio = new AppNegocio.Negocio();
+            
 
-            // y = (a)x^2 + b(x) + c 
-            y = ((a) * (Math.Pow(x, 2))) + (b * x) + c;
-
+            double y = Negocio.CalcularY(x);
+            
             this.txt_y.Text = y.ToString();
         }
     }

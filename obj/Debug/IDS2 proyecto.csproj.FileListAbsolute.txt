@@ -57,3 +57,7 @@ C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\obj\Debug\IDS2 proyecto.cspro
 C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\obj\Debug\IDS2 pro.CBE5E2E7.Up2Date
 C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\obj\Debug\IDS2 proyecto.dll
 C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\obj\Debug\IDS2 proyecto.pdb
+C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\bin\AppNegocio.dll
+C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\bin\AppDatos.dll
+C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\bin\AppNegocio.pdb
+C:\Users\jerry\Desktop\IDS2 proyecto\IDS2 proyecto\bin\AppDatos.pdb
